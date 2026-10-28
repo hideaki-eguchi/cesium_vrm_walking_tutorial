@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Unity（チュートリアルのプロジェクトを置く場合に備えて）
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+*.csproj
+*.sln
+
+# Cesium ion トークンを含むファイル
+CesiumRuntimeSettings.asset
+CesiumRuntimeSettings.asset.meta
