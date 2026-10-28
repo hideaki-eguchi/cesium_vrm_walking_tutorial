@@ -174,7 +174,7 @@ https://github.com/vrm-c/UniVRM.git?path=/Packages/VRM10#v0.131.2
 
 ## 6. 地面の上を歩かせる
 
-1. 配布物の `VrmWalker.cs` と `ThirdPersonCamera.cs` を `Assets/Scripts/` に入れる
+1. 本チュートリアルリポジトリの **Scripts** ディレクトリ内にある `VrmWalker.cs` と `ThirdPersonCamera.cs` を `Assets/Scripts/` に入れる
 2. アバターのルートに **Add Component > Character Controller** を追加して設定
 
    | 項目 | 値 |
