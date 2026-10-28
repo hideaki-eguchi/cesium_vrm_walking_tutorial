@@ -78,7 +78,6 @@
 
 > ⚠️ **"Create a new token" は使わないでください**：Unity 側の **Create a new token** は正しく動作しないことがあるため、必ずウェブサイトで作成したトークンを **Use an existing token** で選んでください。
 
-<!-- TODO: トラブルシューティング画面のスクリーンショット -->
 > ⚠️ **よくあるつまずき**：タイル追加時に「Cesium ion Token Troubleshooting」画面が出て ✕ が並ぶ場合は、トークンが設定されていません。画面の **Select or create a new project default token** を押し、**Use an existing token** でウェブサイトで作成したトークンを選んでください。
 
 > 🔒 **トークンの取り扱い**：トークンは `Assets/CesiumSettings/Resources/CesiumRuntimeSettings.asset` に保存されます。**このファイルを GitHub などで公開しないでください。**
